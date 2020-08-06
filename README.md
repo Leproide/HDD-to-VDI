@@ -3,9 +3,9 @@ Fast conversion of an HDD to VDI virtual drive for VirtualBox
 
 Required:
 
--VirtualBox
+-Oracle VM VirtualBox
 
--Disk2vhd
+-Disk2vhd (By Mark Russinovich)
 
 https://www.virtualbox.org/wiki/Downloads
 
